@@ -1,0 +1,1 @@
+javac --module-path "C:\Users\capta\Coding Projects\CS\javafx-sdk-11.0.2\lib" --add-modules=javafx.controls ToDoList.java
